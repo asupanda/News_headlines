@@ -19,7 +19,7 @@ Setup Instructions
 Clone this repository to your local machine:
 
 
-git clone https://github.com/your-username/top-us-headlines.git
+git clone https://github.com/asupanda/News_headlines.git
 cd top-us-headlines
 Open the project folder in your code editor.
 
